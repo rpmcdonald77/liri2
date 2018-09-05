@@ -1,10 +1,6 @@
 console.log("Keys loaded");
 
-// Get Twitter API credentials by following these steps:
-// Step One: https://apps.twitter.com/app/new
-// Step Two: Use http:// for all URLs
-// Step Three: Then go to "Keys and Access Tokens" to get credentials for below
-// Step Four: Then click the button below on that page to create an access token
+
 exports.twitter = {
   consumer_key: process.env.TWITTER_CONSUMER_KEY,
   consumer_secret: process.env.TWITTER_CONSUMER_SECRET,
