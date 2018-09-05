@@ -1,0 +1,15 @@
+{
+  "name": "liri2",
+  "version": "1.0.0",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7"
+  },
+  "devDependencies": {},
+  "description": ""
+}
